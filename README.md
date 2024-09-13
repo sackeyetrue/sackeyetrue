@@ -42,17 +42,9 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&locale=en" alt="sackeyetrue" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" /></p>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sackeyetrue&show_icons=true&locale=en&layout=compact" alt="sackeyetrue" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&locale=en" alt="sackeyetrue" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" /></p>
-
-
 https://vscode.dev/editor/profile/github/21891801bdd3195a01760500410c9942
