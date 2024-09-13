@@ -36,7 +36,9 @@
 </p>
 
 <p align="center"> 
-   <a href="https://vscode.dev/editor/profile/github/21891801bdd3195a01760500410c9942"><Visual Studio Code</a>
+   <a href="https://vscode.dev/editor/profile/github/21891801bdd3195a01760500410c9942">
+      <h3>SACKEY</h3>
+   </a>
 </p>
 
 
