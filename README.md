@@ -23,7 +23,9 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-### 🧰 Languages and Tools
+
+ 
+ ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -43,8 +45,8 @@
 <br />
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&locale=en" alt="sackeyetrue" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" /></p>
+<p align="center">
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&locale=en" alt="sackeyetrue" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" />
 </p>
 https://vscode.dev/editor/profile/github/21891801bdd3195a01760500410c9942
