@@ -10,7 +10,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sackeyetrue" alt="sackeyetrue" /></a> </p>
 
 <div align="center">
    <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -43,4 +42,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" />
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&locale=en" alt="sackeyetrue" /></p>
 </p>
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sackeyetrue" alt="sackeyetrue" /></a> </p>
+
 https://vscode.dev/editor/profile/github/21891801bdd3195a01760500410c9942
