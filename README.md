@@ -1,15 +1,15 @@
 <h1>🏄‍♂️ Zeke Cora</h1>
 
-📥`Digital Craftsman (Developer/Creator/Achiver)`
+📥`Software Craftsman (Developer/Creator/Achiver/Maker)`
 
+<!-- ---------SOCIALS---------- -->
 <div align="center">
-   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube logo"  />
-   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
- 
-   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-<!-- ---------------------------------------------------------------------------------------------- -->
+
+<!-- ----------I'M---------- -->
 <p>
     <ul>
         <li>🔭 I’m currently working on <a href="link">name</a></li>
@@ -19,18 +19,22 @@
         <li>💬 Ask me about <a href="link">name</a></li>
     </ul>
 </p>
-<!-- ----------------------------------------------------------------------------------------------------- -->
+
+<!-- ----------MAIN------------ -->
 <h2 align="left">Languages and Tools</h2>
 <h2 align="left">Top Repositories</h2>
 <h2 align="left">Activities</h2>
     <p> Vidoes or images</p>
+
+<!-- ----------STATS----------- -->
 <h2 align="left">My Stats</h2>
-<!-- ---------------------------------------------------------------------------------------------------- -->
+
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" />
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&locale=en" alt="sackeyetrue" /></p>
 </p>
-<!-- ------------------------------------------------------------------------------------------------------------ -->
+
+<!-- ---------CREDITS---------- -->
 <h2 align="left">Credits</h2>
 
 <p>
@@ -40,7 +44,8 @@
         - Credit to @drknzz for the skin tone images, information about it
         too & inspiration
 </p>
-<!-- --------------------------------------------------------------------------------------------------------- -->
+
+<!-- ---------TROPHY------------- -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
@@ -49,7 +54,8 @@
     />
   </a>
 </p>
-<!-- -------------------------------------------------------------------------------------------------------- -->
+
+<!-- ------------PROFILE--------------- -->
 <p align="center>
     <h5>My Visual Studio <a href="link"> Profile</a></h5>
 </p>
