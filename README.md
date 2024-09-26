@@ -31,7 +31,6 @@
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" />
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&locale=en" alt="sackeyetrue" /></p>
 </p>
 
 <!-- ---------CREDITS---------- -->
