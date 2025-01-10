@@ -43,10 +43,11 @@ HTML         4 mins          ░░░░░░░░░░░░░░░░░
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sackeyetrue&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
+</p>details>
 
 <!-- ----------STATS----------- -->
 <h2 align="left">My Stats</h2>
@@ -85,7 +86,7 @@ HTML         4 mins          ░░░░░░░░░░░░░░░░░
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sackeyetrue&repo=sackeyetrue&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cora" />
 </a>
 
-<!-- ------------PROFILE--------------- -->
-<p align="center>
-    <h5>My Visual Studio <a href="link"> Profile</a></h5>
-</p>
+<a href="https://github.com/sackeyetrue/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sackeyetrue&repo=sackeyetrue&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cora" />
+</a>
+
