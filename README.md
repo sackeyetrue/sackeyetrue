@@ -26,6 +26,28 @@
 <h2 align="left">Activities</h2>
     <p> Vidoes or images</p>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   16 hrs 3 mins   ███████████████████▓░░░░░   78.42 %
+Python       3 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+```
+
+<!--END_SECTION:waka-->
+
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+
 <!-- ----------STATS----------- -->
 <h2 align="left">My Stats</h2>
 
@@ -44,6 +66,8 @@
         too & inspiration
 </p>
 
+
+## 🏆 GitHub Trophies
 <!-- ---------TROPHY------------- -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -53,6 +77,13 @@
     />
   </a>
 </p>
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/sackeyetrue/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sackeyetrue&repo=sackeyetrue&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cora" />
+</a>
 
 <!-- ------------PROFILE--------------- -->
 <p align="center>
