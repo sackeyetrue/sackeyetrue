@@ -1,13 +1,24 @@
-<h1>🏄‍♂️ Zeke Cora</h1>
+# 👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora)
 
-📥`Software Craftsman (Developer/Creator/Achiver/Maker)`
+<div align="center">📥` 🚀 Software Engineer | Computer Science Enthusiast (Developer/Creator/Achiver/Maker)`</div>
 
 <!-- ---------SOCIALS---------- -->
+
 <div align="center">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <a href="https://github.com/djoezeke">
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D62976&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="djoezeke"/>    
+    </a>
+    <a href="https://github.com/djoezeke">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="djoezeke"/>    
+    </a>
+    <a href="https://github.com/djoezeke">
+        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="djoezeke"/>
+    </a>
+    <a href="https://github.com/djoezeke">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="djoezeke"/>        </a>
 </div>
+
+Welcome to my GitHub portfolio! Here, you'll find projects that showcase my skills in software development, problem-solving, and algorithm design.
 
 <!-- ----------I'M---------- -->
 <p>
@@ -19,6 +30,34 @@
         <li>💬 Ask me about <a href="link">name</a></li>
     </ul>
 </p>
+
+
+---
+
+## 📌 About Me
+
+🎓 **Education:** Computer Science Student at [Your University]  
+💻 **Skills:** C++, Python, JavaScript, HTML, CSS, React, Node.js  
+🚀 **Interests:** Web Development, Algorithms, Open-Source Contributions  
+📫 **Contact:** [Your Email] | [LinkedIn Profile]
+
+---
+
+## 🔥 Featured Projects
+
+### 📌 [Project 1 Name]
+
+**Description:** A brief overview of what this project does.  
+**Technologies Used:** C++, Python, etc.  
+🔗 [GitHub Repo Link]
+
+### 📌 [Project 2 Name]
+
+**Description:** Another exciting project description.  
+**Technologies Used:** React, Node.js, etc.  
+🔗 [GitHub Repo Link]
+
+---
 
 <!-- ----------MAIN------------ -->
 <h2 align="left">Languages and Tools</h2>
@@ -67,7 +106,6 @@ HTML         4 mins          ░░░░░░░░░░░░░░░░░
         - Credit to @drknzz for the skin tone images, information about it
         too & inspiration
 </p>
-
 
 ## 🏆 GitHub Trophies
 <!-- ---------TROPHY------------- -->
