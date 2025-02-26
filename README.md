@@ -88,6 +88,11 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
       src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=template&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
+  <a href="https://github.com/djoezeke/template">
+    <img width=""
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=template&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
+  </a>
 </p>
 
 <p align="center">
@@ -123,7 +128,7 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 
 ## 🏆 GitHub Stats & History
 
-<p align="left">
+<p>
   <img alt="GitHub Stats" width="50%" height="80"
     src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
   <img alt="Top Language" width="50%" height="80"
