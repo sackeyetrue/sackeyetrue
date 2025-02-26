@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 # 👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora)
@@ -35,6 +35,12 @@
 Welcome to my GitHub portfolio! Here, you'll find projects that showcase my skills in software development,
 problem-solving, and algorithm design.
 
+#### 👨🏻‍💻 About Me
+
+🎓 **Education:** Computer Science Student at Accra Technical University
+🚀 **Interests:** Web Development, Algorithms, Open-Source Contributions
+📫 **Contact:** sakeyetrue@gmail.com
+
 <!-- ----------I'M---------- -->
 <p>
 <ul>
@@ -48,19 +54,11 @@ problem-solving, and algorithm design.
 
 ---
 
-## 📌 About Me
-
-🎓 **Education:** Computer Science Student at Accra Technical University
-💻 **Skills:** C++, Python, JavaScript, HTML, CSS, React, Node.js
-🚀 **Interests:** Web Development, Algorithms, Open-Source Contributions
-📫 **Contact:** [Your Email] | [LinkedIn Profile]
-
----
-
 <!-- ----------MAIN------------ -->
 <h2 align="left">Languages and Tools</h2>
-<h2 align="left">Top Repositories</h2>
-<h2 align="left">Activities</h2>
+
+## 🔥 Activities
+
 <p> Vidoes or images</p>
 
 📊 **this week i spent my time on:**
@@ -75,48 +73,41 @@ Bash 8 mins ░░░░░░░░░░░░░░░░░░░░░░�
 HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.38 %
 ```
 
-<!--END_SECTION:waka-->
+## 🗂️ Featured Projects
 
-<details>
-  <summary>Click for GitHub Stats</summary>
-  <p align="center">
-    <img alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-      >
-  </p>
-</details>
+### 📌
 
-## 🔥 Featured Projects
+<p align="left">
+  <a href="https://github.com/djoezeke/">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
+  </a>
+  <a href="https://github.com/djoezeke/">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
+  </a>
+</p>
 
-### 📌 [Project 1 Name]
-
-**Description:** A brief overview of what this project does.
-<a href="https://github.com/djoezeke/">
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-    alt="Cora" />
-</a>
-🔗 [GitHub Repo Link]
-
-### 📌 [Project 2 Name]
-
-**Description:** Another exciting project description.
-<a href="https://github.com/djoezeke/">
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-    alt="Cora" />
-</a>
-🔗 [GitHub Repo Link]
+<p align="center">
+  <a href="https://github.com/djoezeke?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Stats & History
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djoezeke&" alt="djoezeke" />
+<p align="left">
+  <img alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+</p>
+
+<p align="right">
+  <img alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 
 <picture>
