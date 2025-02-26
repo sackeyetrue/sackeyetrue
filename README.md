@@ -38,8 +38,8 @@ problem-solving, and algorithm design.
 #### 👨🏻‍💻 About Me
 
 🎓 **Education:** Computer Science Student at Accra Technical University
+
 🚀 **Interests:** Web Development, Algorithms, Open-Source Contributions
-📫 **Contact:** sakeyetrue@gmail.com
 
 <!-- ----------I'M---------- -->
 <p>
@@ -52,22 +52,112 @@ problem-solving, and algorithm design.
 </ul>
 </p>
 
+📫 **Contact:** sakeyetrue@gmail.com
+
 ---
 
-<!-- ----------MAIN------------ -->
 <h2 align="left">Languages and Tools</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Languages</h3>
+      <div align="center">
+        <a href="https://www.cprogramming.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C"
+            height="50" />
+        </a>
+        <a href="https://www.cplusplus.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"
+            height="50" />
+        </a>
+        <a href="https://www.python.org/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"
+            height="50" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+            alt="HTML5" height="50" />
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+            alt="CSS3" height="50" />
+        </a>
+        <a href="https://www.javascript.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+            alt="JavaScript" height="50" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Frameworks & Libraries</h3>
+      <div align="center">
+        <a href="https://www.djangoproject.com/" target="_blank">
+          <img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" />
+        </a>
+        <a href="https://flask.palletsprojects.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask"
+            height="50" />
+        </a>
+        <a href="https://jquery.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery"
+            height="50" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Tools</h3>
+      <div align="center">
+        <a href="https://www.linux.org/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
+            height="50" />
+        </a>
+        <a href="https://github.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
+            height="50" />
+        </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"
+            height="50" />
+        </a>
+        <a href="https://www.docker.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
+            alt="Docker" height="50" />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
+            alt="MySQL" height="50" />
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank">
+          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"
+            alt="PostgreSQL" height="50" />
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank">
+          <img style="margin: 5px"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" />
+        </a>
+        <a href="https://www.selenium.dev" target="_blank">
+          <img style="margin: 5px"
+            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
+            alt="selenium" width="40" height="40" />
+        </a>
+        <a href="https://www.sqlite.org/" target="_blank">
+          <img style="margin: 5px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"
+            width="40" height="40" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 Activities
 
-<p> Vidoes or images</p>
-
 📊 **this week i spent my time on:**
 
-<!--START_SECTION:waka-->
-
 ```txt
-TypeScript 16 hrs 3 mins ███████████████████▓░░░░░ 78.42 %
-Python 3 hrs 58 mins █████░░░░░░░░░░░░░░░░░░░░ 19.42 %
+Python 16 hrs 3 mins ███████████████████▓░░░░░ 78.42 %
+C/C++ 3 hrs 58 mins █████░░░░░░░░░░░░░░░░░░░░ 19.42 %
 JSON 11 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░ 00.91 %
 Bash 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.66 %
 HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.38 %
@@ -81,11 +171,6 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   <a href="https://github.com/djoezeke/">
     <img width=""
       src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-      alt="Cora" />
-  </a>
-  <a href="https://github.com/djoezeke/template">
-    <img width=""
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=template&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
   <a href="https://github.com/djoezeke/template">
@@ -126,7 +211,7 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🏆 GitHub Stats & History
+## 📈 GitHub Stats & History
 
 <p>
   <img alt="GitHub Stats"
@@ -134,6 +219,10 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   <img alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=djoezeke&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -143,6 +232,20 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   <img alt="Github Snake"
     src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sackeyetrue&&style=flat-square" align="center" />
+</div>
+
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+
+## 📜 Resume & Additional Links
+
+📄 [Download My Resume](#)
+🔗 [Portfolio Website (if available)](#)
+
+Feel free to explore my repositories and reach out if you’d like to collaborate! 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
