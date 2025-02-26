@@ -75,17 +75,17 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 
 ## 🗂️ Featured Projects
 
-### 📌
+### 📌 Personal
 
-<p align="left">
+<p>
   <a href="https://github.com/djoezeke/">
     <img width=""
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
-  <a href="https://github.com/djoezeke/">
+  <a href="https://github.com/djoezeke/template">
     <img width=""
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=template&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
 </p>
@@ -97,14 +97,36 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
+### 📌 Public
+
+<p>
+  <a href="https://github.com/djoezeke/first-contributions">
+    <img width=""
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=first-contributions&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
+  </a>
+  <a href="https://github.com/djoezeke/first-contributions">
+    <img width=""
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=first-contributions&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/djoezeke?tab=repositories&q=&type=fork&language=&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories"
+      src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forked%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=fork" />
+  </a>
+</p>
+
 ---
 
 ## 🏆 GitHub Stats & History
 
 <p align="left">
-  <img alt="GitHub Stats" width="278"
+  <img alt="GitHub Stats" width="50%" height="80"
     src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-  <img alt="Top Language" width="278"
+  <img alt="Top Language" width="50%" height="80"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 
