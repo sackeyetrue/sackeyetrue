@@ -142,12 +142,9 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
     alt="Cora" />
 </a>
 
-<img src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg
-" alt="Snake animation" />
 <picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="Github Snake" src="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
+  <img alt="Github Snake" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
 ###
