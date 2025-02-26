@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # 👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora)
 
 <div align="center">
@@ -53,22 +57,6 @@ problem-solving, and algorithm design.
 
 ---
 
-## 🔥 Featured Projects
-
-### 📌 [Project 1 Name]
-
-**Description:** A brief overview of what this project does.
-**Technologies Used:** C++, Python, etc.
-🔗 [GitHub Repo Link]
-
-### 📌 [Project 2 Name]
-
-**Description:** Another exciting project description.
-**Technologies Used:** React, Node.js, etc.
-🔗 [GitHub Repo Link]
-
----
-
 <!-- ----------MAIN------------ -->
 <h2 align="left">Languages and Tools</h2>
 <h2 align="left">Top Repositories</h2>
@@ -93,58 +81,50 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   <summary>Click for GitHub Stats</summary>
   <p align="center">
     <img alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=sackeyetrue&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+      src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sackeyetrue&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
       >
   </p>
 </details>
 
-<!-- ----------STATS----------- -->
-<h2 align="left">My Stats</h2>
+## 🔥 Featured Projects
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sackeyetrue&" alt="sackeyetrue" />
-</p>
+### 📌 [Project 1 Name]
 
-<!-- ---------CREDITS---------- -->
-<h2 align="left">Credits</h2>
-
-<p>
-  - Massive credit goes to @Schweinepriester for the high quality images for each
-  badge, labels, information for each badge, and the inspiration to make this
-  repository
-  - Credit to @drknzz for the skin tone images, information about it
-  too & inspiration
-</p>
-
-## 🏆 GitHub Trophies
-
-<!-- ---------TROPHY------------- -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sackeyetrue" alt="sackeyetrue" />
-  </a>
-</p>
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/sackeyetrue/">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sackeyetrue&repo=sackeyetrue&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+**Description:** A brief overview of what this project does.
+<a href="https://github.com/djoezeke/">
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
     alt="Cora" />
 </a>
+🔗 [GitHub Repo Link]
 
-<a href="https://github.com/sackeyetrue/">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sackeyetrue&repo=sackeyetrue&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+### 📌 [Project 2 Name]
+
+**Description:** Another exciting project description.
+<a href="https://github.com/djoezeke/">
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
     alt="Cora" />
 </a>
+🔗 [GitHub Repo Link]
+
+---
+
+## 🏆 GitHub Stats & History
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djoezeke&" alt="djoezeke" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
   <img alt="Github Snake" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
-###
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
