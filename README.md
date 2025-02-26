@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
 
 # 👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora)
@@ -79,20 +79,21 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 
 <p align="left">
   <a href="https://github.com/djoezeke/">
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+    <img width=""
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
   <a href="https://github.com/djoezeke/">
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+    <img width=""
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/djoezeke?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+    <img alt="All Repositories" title="All Repositories"
+      src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
   </a>
 </p>
 
@@ -101,21 +102,21 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 ## 🏆 GitHub Stats & History
 
 <p align="left">
-  <img alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-</p>
-
-<p align="right">
-  <img alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+  <img alt="GitHub Stats" width="278"
+    src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+  <img alt="Top Language" width="278"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
-  <img alt="Github Snake" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
+  <img alt="Github Snake"
+    src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
